@@ -1,4 +1,4 @@
-# Fruit
+# Sunrise
 Simple Raspberry Pi Pico based flight computer for HABs
 
 ## Features
