@@ -5449,7 +5449,7 @@
 			(uuid "eb8d92a5-d54f-4088-bb1e-68a4b71124f7")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "J1")
 					(unit 1)
@@ -5528,7 +5528,7 @@
 			(uuid "3cfb42f8-757e-42e4-b29c-40ce855b322b")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR014")
 					(unit 1)
@@ -5605,7 +5605,7 @@
 			(uuid "5794033e-337d-4bd4-bf7f-ca7c5fcb0bdc")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR021")
 					(unit 1)
@@ -5858,7 +5858,7 @@
 			(uuid "b6a791f7-8e29-4cf6-9b40-f63c7649f1fc")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "IC1")
 					(unit 1)
@@ -5952,7 +5952,7 @@
 			(uuid "cabeb3ab-fb08-4e05-b913-0c6be67dac72")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "U1")
 					(unit 1)
@@ -6031,7 +6031,7 @@
 			(uuid "c5f12600-ce2d-46c8-8882-3959d13376cf")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR016")
 					(unit 1)
@@ -6227,7 +6227,7 @@
 			(uuid "3544ece7-dd8a-4ffd-b274-6db19ea026ea")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "A1")
 					(unit 1)
@@ -6351,7 +6351,7 @@
 			(uuid "196b1e22-2f7b-4a02-af26-61d4aefb3143")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "U4")
 					(unit 1)
@@ -6429,7 +6429,7 @@
 			(uuid "ccb60a43-deb6-47bd-bdc9-e353e139a4a7")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR022")
 					(unit 1)
@@ -6511,7 +6511,7 @@
 			(uuid "3c502ff6-0fcc-419a-9d13-cc57d02458e0")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "J3")
 					(unit 1)
@@ -6590,7 +6590,7 @@
 			(uuid "046cf16d-28f5-4b42-a36c-c55dba0cfbf6")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR05")
 					(unit 1)
@@ -6669,7 +6669,7 @@
 			(uuid "34060fa1-0cda-4b11-906d-f5d0c0d2d31c")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR011")
 					(unit 1)
@@ -6747,7 +6747,7 @@
 			(uuid "d9fc286d-613c-477c-a3dc-ece1d108d546")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR020")
 					(unit 1)
@@ -6826,7 +6826,7 @@
 			(uuid "4483fb6f-3fc7-4014-895e-d13411d001ad")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR017")
 					(unit 1)
@@ -6905,7 +6905,7 @@
 			(uuid "0131675e-8ec6-40e0-b591-147354345e6d")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR018")
 					(unit 1)
@@ -6982,7 +6982,7 @@
 			(uuid "7bb0dbf3-1cd7-416a-9dc9-c44715a4bf2e")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR02")
 					(unit 1)
@@ -7061,7 +7061,7 @@
 			(uuid "c5afb69a-3020-4255-9508-7e5faea28dfc")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR09")
 					(unit 1)
@@ -7140,7 +7140,7 @@
 			(uuid "448fbbb2-14b2-4baa-97b8-71f3b3c55f2a")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR013")
 					(unit 1)
@@ -7217,7 +7217,7 @@
 			(uuid "5baf80da-58fd-4c70-9cfc-c70949489c3e")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR01")
 					(unit 1)
@@ -7296,7 +7296,7 @@
 			(uuid "1a8e8f7f-6a8a-4353-830d-a71150ce631b")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR015")
 					(unit 1)
@@ -7375,7 +7375,7 @@
 			(uuid "391757e6-03cf-41aa-895f-fce0865dc9fc")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR010")
 					(unit 1)
@@ -7454,7 +7454,7 @@
 			(uuid "1b1d4762-23f8-443f-a721-1182bce3063c")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR012")
 					(unit 1)
@@ -7533,7 +7533,7 @@
 			(uuid "fa770625-4ce5-40b9-903d-d04ae231e1a8")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR019")
 					(unit 1)
@@ -7615,7 +7615,7 @@
 			(uuid "a75f8758-7019-46d0-801b-3533aff90db9")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "SW1")
 					(unit 1)
@@ -7694,7 +7694,7 @@
 			(uuid "ac823061-5090-470f-98b2-1a4a5eea5de8")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR03")
 					(unit 1)
@@ -7771,7 +7771,7 @@
 			(uuid "0a637aab-b003-4a3f-b718-c20289665340")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR04")
 					(unit 1)
@@ -7853,7 +7853,7 @@
 			(uuid "ecf8047b-26de-4a52-b8fc-c08feb74acef")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "J2")
 					(unit 1)
@@ -7941,7 +7941,7 @@
 			(uuid "6c9ffe52-852c-4203-ba9b-1a1dd4ccfa73")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "U3")
 					(unit 1)
@@ -8018,7 +8018,7 @@
 			(uuid "67897554-d651-44e1-9fef-8f124aacb869")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR07")
 					(unit 1)
@@ -8097,7 +8097,7 @@
 			(uuid "11af67d7-1087-4bdd-a17f-aac0f5302823")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR08")
 					(unit 1)
@@ -8176,7 +8176,7 @@
 			(uuid "dd019696-8342-4997-9e8c-0a74f358c56a")
 		)
 		(instances
-			(project "Fruit"
+			(project "Sunrise"
 				(path "/3d9d3921-4865-4b24-a190-624ce8e2dfa7"
 					(reference "#PWR06")
 					(unit 1)

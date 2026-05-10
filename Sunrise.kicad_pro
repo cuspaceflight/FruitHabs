@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Fruit.kicad_pro",
+    "filename": "Sunrise.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -655,8 +655,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Fruit.kicad_sch",
-        "name": "Fruit",
+        "filename": "Sunrise.kicad_sch",
+        "name": "Sunrise",
         "uuid": "3d9d3921-4865-4b24-a190-624ce8e2dfa7"
       }
     ],
@@ -666,7 +666,7 @@
   "sheets": [
     [
       "3d9d3921-4865-4b24-a190-624ce8e2dfa7",
-      "HABs"
+      "Sunrise"
     ]
   ],
   "text_variables": {},

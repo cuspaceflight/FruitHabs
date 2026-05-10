@@ -143,7 +143,7 @@
 		)
 		(path "/a8120e00-0bd5-4227-bd2f-b6a73f16877e")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -640,7 +640,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/020fd470-ba5a-4194-98e7-f83815874908")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -962,7 +962,7 @@
 		(property ki_fp_filters "Ai?Thinker?Ra?01*")
 		(path "/420633bf-ffc0-4d83-a3a9-c31f12e63dbc")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1431,7 +1431,7 @@
 		)
 		(path "/12664d8a-f1e2-47b9-b041-82211bfe0497")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1987,7 +1987,7 @@
 		(property ki_fp_filters "RaspberryPi?Pico?Common* RaspberryPi?Pico?SMD*")
 		(path "/3e324bd6-30c6-4103-9553-0df088fe6d1f")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5992,7 +5992,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/4912b51a-90e3-46d9-85c3-0253577b584b")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6444,7 +6444,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b764c772-6a15-4eff-9179-51be09040b9b")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6703,7 +6703,7 @@
 		)
 		(path "/24d7873c-77ca-4b7c-b085-0f7e86ce8a98")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -6962,7 +6962,7 @@
 		)
 		(path "/c96f7b98-733e-49c3-8c62-213452aa6e49")
 		(sheetname "/")
-		(sheetfile "Fruit.kicad_sch")
+		(sheetfile "Sunrise.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
